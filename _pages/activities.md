@@ -5,11 +5,9 @@ permalink: /activities/
 author_profile: false
 ---
 
-## Internship
+## Full-Time Employment
 
-- **Quantitative Research Intern**, The Voleon Group, Jun 2024 — Aug 2024
-- **Applied Scientist Intern**, Amazon, Jun 2022 — Sep 2022
-- **Research Intern**, Ant Financial Group, Jun 2021 — Sep 2021
+- **Member of Research Staff**, [The Voleon Group](https://voleon.com/), Sep 2025 — Now
 
 ## Journal Reviewer
 
@@ -27,3 +25,9 @@ author_profile: false
 - International Conference on Learning Representations (ICLR)
 - International Conference on Artificial Intelligence and Statistics (AISTATS)
 - The Conference on Uncertainty in Artificial Intelligence (UAI)
+
+## Industrial Internships
+
+- **Quantitative Research Intern**, The Voleon Group, Jun 2024 — Aug 2024
+- **Applied Scientist Intern**, Amazon, Jun 2022 — Sep 2022
+- **Research Intern**, Ant Financial Group, Jun 2021 — Sep 2021
