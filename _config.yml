@@ -1,9 +1,9 @@
 # Site Settings
 locale: "en-US"
-title: "Your Name"
+title: "Boxin Zhao"
 title_separator: "-"
-name: &name "Your Name"
-description: &description "Your Title / Affiliation"
+name: &name "Boxin Zhao"
+description: &description "Member of Research Staff / The Voleon Group"
 url: https://boxinz17.github.io
 baseurl: ""
 repository: "boxinz17/boxinz17.github.io"
@@ -31,16 +31,16 @@ analytics:
 
 # Site Author — controls the left sidebar
 author:
-  name: "Your Name"
+  name: "Boxin Zhao"
   avatar: "images/profile.jpg"
-  bio: "Your short bio here."
-  location: "Your City"
-  employer:
-  googlescholar: "https://scholar.google.com/citations?user=YOURID"
-  email: "your.email@domain.edu"
+  bio: "Member of Research Staff / The Voleon Group"
+  location: "New York, NY"
+  employer: The Voleon Group
+  googlescholar: "https://scholar.google.com/citations?user=qwSDxikAAAAJ&hl=en"
+  email: "bzhaoscholar@gmail.com"
   uri:
-  github: "yourgithubusername"
-  linkedin:
+  github: "boxinz17"
+  linkedin: "https://www.linkedin.com/in/boxin-zhao-733a31a3"
   twitter:
   orcid:
 
@@ -118,7 +118,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
   # _publications
   - scope:
       path: ""
