@@ -43,11 +43,11 @@ author_profile: false
   Lingxiao Wang, **Boxin Zhao**, Mladen Kolar  
   *International Conference on Artificial Intelligence and Statistics (AISTATS), 2023*
 
-- [Personalized Federated Learning: A Unified Framework and Universal Optimization Techniques](https://openreview.net/pdf?id=ilHM31lXC4)  
+- [Personalized Federated Learning: A Unified Framework and Universal Optimization Techniques](https://arxiv.org/abs/2102.09743)  
   Filip Hanzely\*, **Boxin Zhao**\*, Mladen Kolar  
   *Transactions on Machine Learning Research (TMLR), 2023*
 
-- [L-SVRG and L-Katyusha with Adaptive Sampling](https://openreview.net/pdf?id=9lyqt3rbDc)  
+- [L-SVRG and L-Katyusha with Adaptive Sampling](https://arxiv.org/abs/2201.13387)  
   **Boxin Zhao**, Boxiang Lyu, Mladen Kolar  
   *Transactions on Machine Learning Research (TMLR), 2023*
 
@@ -59,6 +59,6 @@ author_profile: false
 
 ## 2019
 
-- [Direct Estimation of Differential Functional Graphical Models](https://proceedings.neurips.cc/paper/2019/hash/7d6044e95a16761171b130dcb476a43e-Abstract.html)  
+- [Direct Estimation of Differential Functional Graphical Models](https://arxiv.org/abs/1910.09701)  
   **Boxin Zhao**, Y. Samuel Wang, Mladen Kolar  
   *Advances in Neural Information Processing Systems (NeurIPS), 2019*
