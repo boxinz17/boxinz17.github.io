@@ -1,0 +1,22 @@
+# Temporary files
+temp_*.html
+temp_*.css
+*.pyc
+__pycache__/
+*.pyc
+
+# Optional: exclude generated HTML if you want to generate on deploy
+# Uncomment the next line if you want to only commit .jemdoc files
+# *.html
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+

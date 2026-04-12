@@ -1,0 +1,10 @@
+# main-nav links
+main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Activities"
+    url: /activities/
+
+  - title: "Education"
+    url: /education/
