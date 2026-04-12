@@ -7,8 +7,14 @@ author_profile: true
 
 ## Academic Background
 
-- **Degree**, Institution, Year  
-  Details
+- **Ph.D. in Econometrics and Statistics**, 2025  
+  Booth School of Business, University of Chicago
 
-- **Degree**, Institution, Year  
-  Details
+- **M.B.A.** (Concurrent with Ph.D. degree), 2025  
+  Booth School of Business, University of Chicago
+
+- **M.Sc. in Statistics**, 2020  
+  Department of Statistics, University of Chicago
+
+- **B.Sc. in Statistics**, 2018  
+  School of Mathematical Sciences, Nankai University
