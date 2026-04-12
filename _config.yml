@@ -27,7 +27,9 @@ og_image:
 
 # Analytics
 analytics:
-  provider: false
+  provider: "google-universal"
+  google:
+    tracking_id: "G-1T78K8DYRJ"
 
 # Site Author — controls the left sidebar
 author:
