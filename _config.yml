@@ -35,12 +35,13 @@ author:
   avatar: "profile.jpg"
   bio: "Member of Research Staff / The Voleon Group"
   location: "New York, NY"
-  employer: "<a href='https://voleon.com/'>The Voleon Group</a>"
+  employer: "The Voleon Group"
+  employer_url: "https://voleon.com/"
   googlescholar: "https://scholar.google.com/citations?user=qwSDxikAAAAJ&hl=en"
   email: "bzhaoscholar@gmail.com"
   uri:
   github: "boxinz17"
-  linkedin: "https://www.linkedin.com/in/boxin-zhao-733a31a3"
+  linkedin: "boxin-zhao-733a31a3"
   twitter:
   orcid:
 
