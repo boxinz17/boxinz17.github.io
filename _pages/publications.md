@@ -10,6 +10,7 @@ author_profile: false
 ## 2026
 
 - [Provable Accelerated Bayesian Optimization with Knowledge Transfer](https://arxiv.org/abs/2511.03125)  
+  <a href="https://arxiv.org/abs/2511.03125" class="arxiv-link">[arXiv]</a>  
   Haitao Lin, **Boxin Zhao**, Mladen Kolar, Chong Liu  
   *International Conference on Artificial Intelligence and Statistics (AISTATS), 2026*
 
