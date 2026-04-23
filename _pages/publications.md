@@ -9,6 +9,11 @@ author_profile: false
 
 ## 2026
 
+- [SMART: A Spectral Transfer Approach to Multi-Task Learning](https://arxiv.org/abs/2604.20161)  
+  <a href="https://arxiv.org/abs/2604.20161" class="arxiv-link">[arXiv]</a> <a href="https://github.com/boxinz17/smart" class="code-link">[code]</a>  
+  **Boxin Zhao**, Mladen Kolar, Jinchi Lv  
+  *Preprint, 2026*
+
 - [Provable Accelerated Bayesian Optimization with Knowledge Transfer](https://arxiv.org/abs/2511.03125)  
   <a href="https://arxiv.org/abs/2511.03125" class="arxiv-link">[arXiv]</a>  
   Haitao Lin, **Boxin Zhao**, Mladen Kolar, Chong Liu  
